@@ -1,0 +1,415 @@
+a {
+  color: #54a8a9;
+}
+
+html {
+  background-color: white;
+  font-family: serif;
+}
+
+input {
+  font-size: 15px;
+  width: 400px;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+p {
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+form {
+  margin-left: 30px;
+}
+
+.info {
+background-color: #f5ecdb;
+margin-left: 350px;
+width: 500px;
+border: 1px solid black;
+padding: 10px;
+padding-bottom: 40px;
+}
+
+.categories {
+  font-size: 20px;
+  font-family: inherit;
+  border-bottom: 2px solid orange;
+  padding-bottom: 1px;
+}
+
+.mojo {
+  height: 430px;
+  width: 1100px;
+  background-color: #FBF9F2;
+  /*width: 1250px;*/
+  border: 1px;
+  padding: 30px;
+}
+
+.logo {
+  height: 60px;
+  width: 140px;
+}
+
+.vegPizza {
+  height: 250px;
+  width: 350px;
+  margin-left: 100px;
+}
+
+.chickenPizza {
+  height: 250px;
+  width: 350px;
+  margin-left: 30px;
+}
+
+.burgerPizza {
+  height: 250px;
+  width: 350px;
+  margin-left: 30px;
+}
+
+.icecream {
+  height: 250px;
+  width: 350px;
+  margin-left: 100px;
+}
+
+.coffee {
+  height: 250px;
+  width: 350px;
+  margin-left: 30px;
+}
+.sandwich {
+  height: 250px;
+  width: 350px;
+  margin-left: 30px;
+}
+
+.vegPizzaText {
+  margin-left: 210px;
+  font-size: 25px;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: sans-serif;
+}
+
+.chickenPizzaText {
+  margin-left: 220px;
+  font-size: 25px;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: sans-serif;
+}
+
+.burgerPizzaText {
+  margin-left: 210px;
+  font-size: 25px;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: sans-serif;
+}
+
+.icecreamText {
+  margin-left: 210px;
+  font-size: 25px;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: sans-serif;
+}
+
+.coffeeText {
+  margin-left: 220px;
+  font-size: 25px;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: sans-serif;
+}
+
+.sandwichText {
+  margin-left: 210px;
+  font-size: 25px;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: sans-serif;
+}
+
+.vegPizzaText:hover {
+  color: red;
+}
+
+.chickenPizzaText:hover {
+  color: red;
+}
+
+.burgerPizzaText:hover {
+  color: red;
+}
+
+.icecreamText:hover {
+  color: red;
+}
+
+.coffeeText:hover {
+  color: red;
+}
+
+.sandwichText:hover {
+  color: red;
+}
+
+.partyOrder {
+  margin-left: 50px;
+  color: #6b6b6b;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.home {
+  margin-left: 20px;
+  color: #6b6b6b;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.signIn {
+  margin-left: 800px;
+  color: #6b6b6b;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.signUp {
+  margin-left: 20px;
+  color: #6b6b6b;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.partyOrder:hover {
+  color: red;
+}
+
+.home:hover {
+  color: red;
+}
+
+.signIn:hover {
+  color: red;
+}
+
+.signUp:hover {
+  color: red;
+}
+
+.mojo1 {
+  height: 450px;
+  width: 1300px;
+}
+
+.goget {
+  font-size: 100px;
+  background-color: red;
+  color: white;
+}
+
+.end {
+  width: 1020px;
+  padding-left: 250px;
+  padding-bottom: 50px;
+  background-color: #1C2942;
+  color: white;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.finalText1 {
+  margin-left: 500px;
+}
+
+.finalText2 {
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: #1C2942;
+}
+
+.finalText2:hover {
+  color: #54a8a9;
+}
+
+.finalText3 {
+  margin-left: 500px;
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: #1C2942;
+}
+
+.finalText3:hover {
+  color: #54a8a9;
+}
+
+.finalText4 {
+  margin-left: 480px;
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: #1C2942;
+}
+
+.finalText4:hover {
+  color: #54a8a9;
+}
+
+.finalText6 {
+  margin-left: 395px;
+  color: white;
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: #1C2942;
+}
+
+.finalText6:hover {
+  color: #54a8a9;
+}
+
+.submit {
+  background-color: #fb7729;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.logo {
+  height: 50px;
+  width: 130px;
+}
+
+.partyOrder {
+  margin-left: 50px;
+  color: #655e5e;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.home {
+  margin-left: 20px;
+  color: #655e5e;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.signIn {
+  margin-left: 800px;
+  color: #655e5e;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.signUp {
+  margin-left: 20px;
+  color: #655e5e;
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.partyOrder:hover {
+  color: red;
+}
+
+.home:hover {
+  color: red;
+}
+
+.signIn:hover {
+  color: red;
+}
+
+.signUp:hover {
+  color: red;
+}
+
+.password {
+  color: #5d5c5c;
+}
+
+.password:hover {
+  color: red;
+}
+
+.newUser {
+  font-size: 20px;
+
+}
+
+.SU {
+  background-color: #fb7729;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.or {
+  font-size: 25px;
+  margin-right: 50px;
+}
+
+.fbLogin {
+  background-color: #3b5999;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  margin-left: 30px;
+}
+
+.googleLogin {
+  background-color: rgb(57, 54, 245);
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  margin-left: 20px;
+}
+
+.SI {
+  background-color: #fb7729;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
